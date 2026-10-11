@@ -5,8 +5,8 @@
 AI-powered outdoor exploration meets sustainable living
 Discover nature, explore nearby places, take on eco-challenges, and make every outdoor adventure count.
 <p>
-  <a href="https://eco-quest-2026.vercel.app/"><img src="https://img.shields.io/badge/🌿_Live_Demo-Visit_Eco--Quest-238636?style=for-the-badge" alt="Live Demo"></a>
-  <a href="https://github.com/ziyadparkar01/EcoQuest1"><img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
+  <a href="https://eco-quest1-dpor.vercel.app/"><img src="https://img.shields.io/badge/🌿_Live_Demo-Visit_Eco--Quest-238636?style=for-the-badge" alt="Live Demo"></a>
+  <a href="https://github.com/ziyadparkar01/EcoQuest"><img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
 </p>
 
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=111111" alt="React">
