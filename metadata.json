@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix EcoQuest",
+  "description": "Imported from GitHub: ziyadparkar01/EcoQuest",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
